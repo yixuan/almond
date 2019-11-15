@@ -1,7 +1,7 @@
 ## ALMOND
 
 This repository stores the code files for the article
-"*ALMOND: Adaptive Latent Modeling and Optimization via Neural Networks and Langevin Diffusion*".
+"[ALMOND: Adaptive Latent Modeling and Optimization via Neural Networks and Langevin Diffusion](https://doi.org/10.1080/01621459.2019.1691563)".
 
 ### Installation
 
