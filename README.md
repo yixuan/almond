@@ -16,7 +16,7 @@ pip install mxnet --user
 And then enter the `package` directory and run
 
 ```bash
-cd packages
+cd package
 python3 setup install --user
 ```
 
