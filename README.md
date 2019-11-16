@@ -1,4 +1,4 @@
-## ALMOND
+## ALMOND <img src="https://statr.me/images/sticker-almond.png" alt="almond" height="150px" align="right" />
 
 This repository stores the code files for the article
 "*ALMOND: Adaptive Latent Modeling and Optimization via Neural Networks and Langevin Diffusion*".
